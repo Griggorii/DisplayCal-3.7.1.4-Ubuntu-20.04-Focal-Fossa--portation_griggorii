@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Fri, 12 Oct 2020 11:12:18 +0200
+Source: displaycal
+Binary: dispcalgui displaycal
+Architecture: all amd64
+Version: 3.7.1.4-1
+Distribution: groovy
+Urgency: medium
+Maintainer: Griggorii <griggorii@gmail.com>
+Changed-By: Griggorii <griggorii@gmail.com>
+Description:
+ dispcalgui - transitional dummy package to displaycal
+ displaycal - Graphical user interface for the Argyll CMS.
+Changes:
+ displaycal (3.7.1.4-1) groovy; urgency=medium
+ .
+   * New upstream release.
+Checksums-Sha1:
+ a5558e58dfc3c8a6c7ccca68aba477c6ca50c675 3612 dispcalgui_3.7.1.4-1_all.deb
+ 63f96f447f5b27cb0831b874b2c394b5be258d69 25716 displaycal-dbgsym_3.7.1.4-1_amd64.ddeb
+ 548e204da16e28436ae9f359b6755d1b58c37a50 8000 displaycal_3.7.1.4-1_amd64.buildinfo
+ 2f7f827a48fe7c4d8dd40bbf3430038aa43cfa51 7221372 displaycal_3.7.1.4-1_amd64.deb
+Checksums-Sha256:
+ 94d3b51998077e3e48688639d22c380983e5328b4617f004d1aae693d916f286 3612 dispcalgui_3.7.1.4-1_all.deb
+ 79e0da481173fb78742506dd9dc4235f26bbc91225fa37784c191ce4d0739e06 25716 displaycal-dbgsym_3.7.1.4-1_amd64.ddeb
+ 800601d53c0d54c42b2b77458c9719d46cae4c23d76c5244fb388828ec32e87b 8000 displaycal_3.7.1.4-1_amd64.buildinfo
+ 3186e0318b69f33ed4872bc10df7c4d422d3f2117fca83213d54e0ab0f3bbb93 7221372 displaycal_3.7.1.4-1_amd64.deb
+Files:
+ c95a2a0e494e476242ec91fc79eabc0c 3612 oldlibs optional dispcalgui_3.7.1.4-1_all.deb
+ de7bce4e98c9900b3877fb213f903c56 25716 debug optional displaycal-dbgsym_3.7.1.4-1_amd64.ddeb
+ ac1aa8e4ff460e35a8e17b9d25af8e0e 8000 graphics optional displaycal_3.7.1.4-1_amd64.buildinfo
+ 046b98a37e3d739b534b1a64be6661ea 7221372 graphics optional displaycal_3.7.1.4-1_amd64.deb
