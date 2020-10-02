@@ -11,4 +11,4 @@ Run terminal : $ displaycal
 
 and label apps
 
-Griggorii@gmail.com reincarnation technology
+Griggorii@gmail.com reincarnation technology было собранно на этой смешаннйо системе https://t.me/java_8_oracle_X64_Griggorii/2 планируется перепортировать что либо ещё на этой смешаннйо операционной системе пишите
