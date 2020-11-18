@@ -12,3 +12,5 @@ Run terminal : $ displaycal
 and label apps
 
 Griggorii@gmail.com reincarnation technology было собранно на этой смешаннйо системе https://t.me/java_8_oracle_X64_Griggorii/2 по этому сам бинарник является частично mit иначе зачем я тратил тысячу часов что бы создать операционную систему которая может модифицировать некоторые части сборки , планируется перепортировать что либо ещё на этой смешанной специально для этого операционной системе пишите
+
+Griggorii@gmail.com только настоящие технологии bitcoin support real technology new fix 1Fps612daCcb7vYN2bFDRoDuUnrjJESDmk
