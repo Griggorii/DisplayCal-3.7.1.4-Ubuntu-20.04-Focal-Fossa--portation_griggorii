@@ -7,11 +7,13 @@ sudo apt update && sudo apt --reinstall install argyll argyll-ref libwxbase3.0-0
 
 install package displaycal_3.7.1.4-1_amd64.deb dispcalgui_3.7.1.4-1_all.deb
 
-Run terminal : $ displaycal
+Run terminal command enter : $ displaycal
 
 and label apps
 
-Run terminal locate net.displaycal.x3d-viewer command enter: $ cp -r net.displaycal.x3d-viewer ~/.cache
+Run terminal locate net.displaycal.x3d-viewer command enter: 
+
+$ cp -r net.displaycal.x3d-viewer ~/.cache
 
 Run file sRGB.wrl in program WRML to X3D
 
