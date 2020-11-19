@@ -11,6 +11,8 @@ Run terminal : $ displaycal
 
 and label apps
 
+Run terminal locate net.displaycal.x3d-viewer command enter: $ cp -r net.displaycal.x3d-viewer ~/.cache
+
 Run file sRGB.wrl in program WRML to X3D
 
 Griggorii@gmail.com reincarnation technology было собранно на этой смешаннйо системе https://t.me/java_8_oracle_X64_Griggorii/2 по этому сам бинарник является частично mit иначе зачем я тратил тысячу часов что бы создать операционную систему которая может модифицировать некоторые части сборки , планируется перепортировать что либо ещё на этой смешанной специально для этого операционной системе пишите
